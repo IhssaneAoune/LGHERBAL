@@ -7,7 +7,7 @@ Lgherbal is an Arabic Sentiment Analysis App designed to analyze sentiments in A
 
 ## Features
 
-- **Text Input or File Upload:** Analyze sentiments by entering Arabic sentences or uploading text files(Great for busineses to better understand their custumers).
+- **Text Input or File Upload:** Analyze sentiments by entering Arabic sentences or uploading text files(Great for businesses to better understand their custumers).
   ![Sidebar](Screenshots/Sidebar_systems.png)
 - **for sentences**
   ![Sidebar](Screenshots/sentence_input.png)
